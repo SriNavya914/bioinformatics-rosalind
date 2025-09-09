@@ -1,11 +1,4 @@
-I used ChatGPT to assemble a single Colab-ready notebook from multiple sources.
 
-Sources combined: my three uploaded .ipynb notebooks, two .docx files, the two YouTube links (https://youtu.be/NcG7hXMtCJA
-, https://youtu.be/CQV-c_U-O8A
-), and the ChatGPT share link (https://chatgpt.com/share/68be309e-2570-8004-a3d9-cee54a7d9ca2
-).
-
-ChatGPT generated a unified notebook that adds a header with the links, merges cells from the uploaded notebooks (in order), extracts plain text from the .docx files into Markdown cells, and includes optional helper cells (e.g., transcript-fetch instructions and a reminder to “Save a copy in GitHub”).
 
 What AI did not do:
 

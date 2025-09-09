@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+Sri Navya + 1002229468 + BIOL5340-001
